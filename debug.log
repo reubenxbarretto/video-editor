@@ -1,0 +1,424 @@
+2024-10-07 21:24:07,395 [MainThread  ] [INFO ]  Startup.
+2024-10-07 21:24:07,700 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-07 21:24:07,705 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-07 21:24:07,705 [MainThread  ] [INFO ]  DONE
+2024-10-07 21:26:24,186 [MainThread  ] [INFO ]  Startup.
+2024-10-07 21:26:24,234 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-07 21:26:24,238 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-07 21:26:24,239 [MainThread  ] [INFO ]  DONE
+2024-10-08 11:55:08,695 [MainThread  ] [INFO ]  Startup.
+2024-10-08 11:55:08,759 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-08 11:55:08,766 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-08 11:55:08,766 [MainThread  ] [INFO ]  DONE
+2024-10-08 13:49:58,525 [MainThread  ] [INFO ]  Startup.
+2024-10-08 13:49:58,619 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-08 13:49:58,626 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-08 13:49:58,627 [MainThread  ] [INFO ]  DONE
+2024-10-08 14:01:10,993 [MainThread  ] [INFO ]  Startup.
+2024-10-08 14:01:11,041 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-08 14:01:11,041 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-08 14:01:11,041 [MainThread  ] [INFO ]  DONE
+2024-10-08 14:04:21,709 [MainThread  ] [INFO ]  Startup.
+2024-10-08 14:04:21,753 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-08 14:04:21,758 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-08 14:04:21,758 [MainThread  ] [INFO ]  DONE
+2024-10-08 14:07:55,810 [MainThread  ] [INFO ]  Startup.
+2024-10-08 14:07:55,997 [MainThread  ] [ERROR]  Startup Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+2024-10-08 14:07:56,034 [MainThread  ] [ERROR]  Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\webmGenerator.py", line 29, in <module>
+    from src.webmGeneratorController import WebmGeneratorController
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 39, in <module>
+    from .cutselectionUi import CutselectionUi
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 17, in <module>
+    from .modalWindows import (PerfectLoopScanModal,
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\modalWindows.py", line 44, in <module>
+    import mpv
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\venv\Lib\site-packages\mpv.py", line 40, in <module>
+    raise OSError('Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].')
+OSError: Cannot find mpv-1.dll, mpv-2.dll or libmpv-2.dll in your system %PATH%. One way to deal with this is to ship the dll with your script and put the directory your script is in into %PATH% before "import mpv": os.environ["PATH"] = os.path.dirname(__file__) + os.pathsep + os.environ["PATH"] If mpv-1.dll is located elsewhere, you can add that path to os.environ["PATH"].
+
+2024-10-08 14:07:56,034 [MainThread  ] [INFO ]  DONE
+2024-10-08 14:24:16,042 [MainThread  ] [INFO ]  Startup.
+2024-10-08 14:24:17,006 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-10-08 14:56:08,749 [Thread-4 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 255, in imageWorker
+    videoInfo = getVideoInfo(cleanFilenameForFfmpeg(filename))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegInfoParser.py", line 20, in getVideoInfo
+    proc = sp.Popen(['ffmpeg','-i',filename],stdout=sp.PIPE,stderr=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-10-08 14:59:53,595 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-10-08 14:59:53,944 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-10-08 14:59:53,953 [MainThread  ] [INFO ]  DONE
+2024-10-08 15:01:13,958 [MainThread  ] [INFO ]  Startup.
+2024-10-08 15:01:14,073 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-10-08 15:08:21,762 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-10-08 15:08:22,403 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-10-08 15:08:22,403 [MainThread  ] [INFO ]  DONE
+2024-10-08 15:11:02,414 [MainThread  ] [INFO ]  Startup.
+2024-10-08 15:11:02,540 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-10-08 15:11:25,752 [Thread-4 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 255, in imageWorker
+    videoInfo = getVideoInfo(cleanFilenameForFfmpeg(filename))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegInfoParser.py", line 20, in getVideoInfo
+    proc = sp.Popen(['ffmpeg','-i',filename],stdout=sp.PIPE,stderr=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-10-08 15:21:01,564 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-10-08 15:21:01,894 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-10-08 15:21:01,894 [MainThread  ] [INFO ]  DONE
+2024-11-08 20:10:12,484 [MainThread  ] [INFO ]  Startup.
+2024-11-08 20:10:16,164 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-11-08 20:11:04,220 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-11-08 20:11:04,702 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-11-08 20:11:04,753 [MainThread  ] [INFO ]  DONE
+2024-11-09 10:19:35,415 [MainThread  ] [INFO ]  Startup.
+2024-11-09 10:19:36,167 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-11-09 10:21:37,903 [Thread-4 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 255, in imageWorker
+    videoInfo = getVideoInfo(cleanFilenameForFfmpeg(filename))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegInfoParser.py", line 20, in getVideoInfo
+    proc = sp.Popen(['ffmpeg','-i',filename],stdout=sp.PIPE,stderr=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-11-09 10:22:22,119 [MainThread  ] [ERROR]  Exception playbackSpeedCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 901, in playbackSpeedCallback
+    value = float(self.playbackSpeedVar.get())
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2024-11-09 10:22:26,445 [MainThread  ] [ERROR]  Exception playbackSpeedCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 901, in playbackSpeedCallback
+    value = float(self.playbackSpeedVar.get())
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2024-11-09 10:22:39,723 [MainThread  ] [ERROR]  Exception dragPreviewPosCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 913, in dragPreviewPosCallback
+    value = float(value)
+            ^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2024-11-09 10:22:42,593 [MainThread  ] [ERROR]  Exception dragPreviewPosCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 913, in dragPreviewPosCallback
+    value = float(value)
+            ^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2024-11-09 10:24:30,973 [Thread-5 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 255, in imageWorker
+    videoInfo = getVideoInfo(cleanFilenameForFfmpeg(filename))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegInfoParser.py", line 20, in getVideoInfo
+    proc = sp.Popen(['ffmpeg','-i',filename],stdout=sp.PIPE,stderr=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-11-09 10:24:43,211 [MPVEventHand] [ERROR]  x coord to seconds Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\timeLineSelectionFrameUI.py", line 900, in xCoordToSeconds
+    center,rangeStart,duration = self.getClampedCenterPosAndRange(update=update,negative=negative)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\timeLineSelectionFrameUI.py", line 874, in getClampedCenterPosAndRange
+    result  = self.pureGetClampedCenterPosAndRange(self.controller.getTotalDuration(),
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\timeLineSelectionFrameUI.py", line 866, in pureGetClampedCenterPosAndRange
+    outputDuration = totalDuration*(1/zoomFactor)
+                     ~~~~~~~~~~~~~^^~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
+2024-11-09 10:24:43,299 [MPVEventHand] [ERROR]  Seconds to x coord Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\timeLineSelectionFrameUI.py", line 893, in secondsToXcoord
+    return (((seconds-rangeStart))/duration)*self.winfo_width()
+              ~~~~~~~^~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+2024-11-09 10:24:45,996 [Thread-4 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 261, in imageWorker
+    proc = sp.Popen(cmd,stdout=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-11-09 10:25:06,156 [Thread-5 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 261, in imageWorker
+    proc = sp.Popen(cmd,stdout=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-11-09 10:25:24,110 [MainThread  ] [ERROR]  getCurrentClip Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\filterSelectionUi.py", line 2290, in getCurrentClip
+    return self.subclips[self.subClipOrder[self.currentSubclipIndex]]
+                         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not NoneType
+2024-11-09 10:25:24,161 [MainThread  ] [ERROR]  getCurrentClip Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\filterSelectionUi.py", line 2290, in getCurrentClip
+    return self.subclips[self.subClipOrder[self.currentSubclipIndex]]
+                         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: list indices must be integers or slices, not NoneType
+2024-11-09 13:32:11,411 [MainThread  ] [INFO ]  Startup.
+2024-11-09 13:32:12,083 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-11-09 13:32:51,105 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-11-09 13:32:51,363 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-11-09 13:32:51,417 [MainThread  ] [INFO ]  DONE
+2024-11-09 13:38:47,608 [MainThread  ] [INFO ]  Startup.
+2024-11-09 13:38:47,815 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-11-09 13:39:07,655 [MainThread  ] [INFO ]  CutselectionController destroyed
+2024-11-09 13:39:07,935 [MainThread  ] [ERROR]  root.destroy() Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\webmGeneratorController.py", line 793, in close_ui
+    self.root.destroy()
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 2390, in destroy
+    self.tk.call('destroy', self._w)
+_tkinter.TclError: can't invoke "destroy" command: application has been destroyed
+2024-11-09 13:39:07,936 [MainThread  ] [INFO ]  DONE
+2024-11-09 13:44:42,863 [MainThread  ] [INFO ]  Startup.
+2024-11-09 13:44:43,102 [MainThread  ] [INFO ]  data registered as img_not_supported
+2024-11-09 13:45:25,298 [Thread-4 (im] [ERROR]  Image worker Exception
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegService.py", line 255, in imageWorker
+    videoInfo = getVideoInfo(cleanFilenameForFfmpeg(filename))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\ffmpegInfoParser.py", line 20, in getVideoInfo
+    proc = sp.Popen(['ffmpeg','-i',filename],stdout=sp.PIPE,stderr=sp.PIPE)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Reuben\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] The system cannot find the file specified
+2024-11-09 13:45:39,261 [MainThread  ] [ERROR]  Exception playbackSpeedCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 901, in playbackSpeedCallback
+    value = float(self.playbackSpeedVar.get())
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+2024-11-09 13:45:59,454 [MainThread  ] [ERROR]  Exception playbackSpeedCallback
+Traceback (most recent call last):
+  File "C:\Users\Reuben\Downloads\WebmGenerator-master\WebmGenerator-master\src\cutselectionUi.py", line 901, in playbackSpeedCallback
+    value = float(self.playbackSpeedVar.get())
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
